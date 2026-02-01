@@ -9,6 +9,7 @@ The operator simplifies the management of Druid clusters with its custom logic t
 * [Getting Started](./getting_started.md)
 * API Specifications
   * [Druid API](./api_specifications/druid.md)
+* [Ingestion Controller](./ingestion_controller.md)
 * [Supported Features](./features.md)
 * [Example Specs](./examples.md)
 * [Developer Documentation](./dev_doc.md)
